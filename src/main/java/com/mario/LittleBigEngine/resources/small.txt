@@ -1,0 +1,26 @@
+LittleBigEngine CreatorDoc
+
+BASICS:
+
+  Game Plan Fields X: 3
+  Game Plan Fields Y: 3
+
+  Starting Position X: 1
+  Starting Position Y: 1
+
+STONES:
+
+  Positions: [0/1, 0/2]
+
+STICKS:
+
+  Equipped: 2
+  Positions: [1/0, 3/3]
+
+CHESTS:
+
+  [20/2-3, 500/2-2]
+
+ENEMIES:
+
+  [5,5]
